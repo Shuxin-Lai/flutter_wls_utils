@@ -1,7 +1,9 @@
 name: flutter_wls_utils
 description: A new Flutter package project.
 version: 0.0.1
+author: Shuxin-Lai
 homepage:
+  https://github.com/Shuxin-Lai/flutter_wls_utils
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
